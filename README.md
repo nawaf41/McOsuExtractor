@@ -2,7 +2,7 @@
 
 > Auto-extract beatmaps and skins for McOsu with ease.
 
-![Downloads](https://img.shields.io/github/downloads/nawaf41/McOsuExtractor/total?color=blue)
+![Downloads](https://img.shields.io/github/downloads/nawaf41/McOsuExtractor/total?color=blue&label=Total%20Downloads)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 
 ## 🎵 What is McOsuExtractor?
